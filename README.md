@@ -14,8 +14,8 @@ Projekt stworzony w Power BI, którego celem jest przedstawienie zmian w liczbie
 - Interaktywne wizualizacje (mapa, linie trendu, wykresy słupkowe)
 
 ## 📷 ss
-![Dashboard - widok ogólny](ss.png)
-![Dashboard - widok ogólny](ss1.png)
+![Dashboard - widok ogólny](screenshots/ss.png)
+![Dashboard - widok ogólny](screenshots/ss1.png)
 
 
 
